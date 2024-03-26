@@ -64,12 +64,6 @@
 ![DBeaver](https://img.shields.io/badge/DBeaver-5793C4?style=for-the-badge&labelColor=black&logo=dbeaver&logoColor=white)
 <br/>
 
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Fayata&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/Fayata/itasks](https://github.com/Fayata/Borrow-lecture-hall))
-<p align="left">
-  <a href="[https://github.com/Fayata?tab=repositories]" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
 <br/>
 <hr/>
 <br/>
