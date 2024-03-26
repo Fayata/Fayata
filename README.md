@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**Fayata/Fayata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,10 +7,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns:he/him
 - ⚡ Fun fact: i am handsome
--->
 
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
+<a href="https://komarev.com/ghpvc/?username=Fayata">
   <img align="right" src="https://komarev.com/ghpvc/?username=Fayata&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
