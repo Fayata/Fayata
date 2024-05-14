@@ -20,13 +20,13 @@
  <a href="[https://www.linkedin.com/in/daffa-surya-septa-528975250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Fayata"/>
  </a>
- <a href="[https://twitter.com/Fayata_?t=uSj6ddPnPmycAYP8Ff2gYA&s=09]" target="_blank">
+ <a href="[https://twitter.com/Fayata_?t=uSj6ddPnPmycAYP8Ff2gYA&s=09]" target="https://twitter.com/Fayata_?t=uSj6ddPnPmycAYP8Ff2gYA&s=09">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="[https://www.instagram.com/fayata__?igsh=MXZsc25oNGpiZ3QyNw==]" target="_blank">
+ <a href="[https://www.instagram.com/fayata__?igsh=MXZsc25oNGpiZ3QyNw==]" target="https://www.instagram.com/fayata__?igsh=MXZsc25oNGpiZ3QyNw==">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Fayata" />
  </a> 
- <a href="[https://www.facebook.com/profile.php?id=100024681280819&mibextid=ZbWKwL]" target="_blank">
+ <a href="[https://www.facebook.com/profile.php?id=100024681280819&mibextid=ZbWKwL]" target="https://www.facebook.com/profile.php?id=100024681280819&mibextid=ZbWKwL">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Fayata"  />
   </a> 
 </p>
