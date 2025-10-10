@@ -99,7 +99,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on PT.Sysware Indonesia
-- 🌱 I’m currently learning Blockchain, adn Web3
+- 🌱 I’m currently learning Blockchain, and Web3
 - 💬 Ask me about anything
 - 📫 How to reach me: ...
 - 😄 Pronouns:he/him
