@@ -40,7 +40,7 @@
  ✌️ &emsp; Junior Programmer <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: daffa12k@gmail.com<br/><br/>
- 🌱 &emsp; Currently interested in learning Blockchain, Smart Contracts, and Crypto<br/><br/>
+ 🌱 &emsp; Currently interested in learning Blockchain, Smart Contracts, and Crypto Currency<br/><br/>
 
 </p>
  
