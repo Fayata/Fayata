@@ -96,7 +96,7 @@
 ![Fayata's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fayata&custom_title=%20Fayata's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on PT.Sysware Indonesia
+- 🔭 I’m currently working on PT. Sysware Indonesia
 - 🌱 I’m currently learning Blockchain, and Web3
 - 💬 Ask me about anything
 - 📫 How to reach me: ...
