@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on PT. Sysware Indonesia
 - 🌱 I’m currently learning Blockchain, and Web3
 - 💬 Ask me about anything
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://ngl.link/fayata___1
 - 😄 Pronouns:he/him
 - ⚡ Fun fact: i am handsome
 
