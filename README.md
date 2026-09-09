@@ -1,17 +1,11 @@
-
 <a href="https://komarev.com/ghpvc/?username=Fayata">
   <img align="right" src="https://komarev.com/ghpvc/?username=Fayata&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
-<!-- Intro  -->
+<!-- Intro -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://Fayata.com">Fayata</a></b>
-        </samp>
+  <samp>&gt; Hey There!, I am <b><a target="_blank" href="https://Fayata.com">Fayata</a></b></samp>
 </h3>
-
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daffa-surya-septa-528975250/" target="_blank">
@@ -33,20 +27,16 @@
 # About me
 
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  <img align="right" width="380" src="assets/coding.gif" alt="Coding Anime" />
   
- ✌️ &emsp; Junior Software Engineer <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: daffa12k@gmail.com<br/><br/>
- 🌱 &emsp; Currently interested in learning Blockchain, Smart Contracts, and Cryptography<br/><br/>
-
-</p>
- 
-
+  ✌️ &emsp; Junior Software Engineer <br/><br/>
+  🔭 &emsp; Currently working on <b>PT. Sysware Indonesia</b> <br/><br/>
+  🌱 &emsp; Learning <b>Cyber Security, Blockchain & Cryptography</b> <br/><br/>
+  💬 &emsp; Reach me: <a href="mailto:daffa12k@gmail.com">daffa12k@gmail.com</a> / <a href="https://ngl.link/fayata___1">NGL Link</a> <br/><br/>
+  ⚡ &emsp; Pronouns: he/him
 </p>
 
-<br/>
-<br/>
+<br clear="right" />
 <br/>
 
 ## Use To Code
@@ -68,7 +58,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-<br/>
 
 <br/>
 <hr/>
@@ -86,12 +75,10 @@
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/Fayata"><img alt="Fayata's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Fayata&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Fayata"><img alt="Fayata's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Fayata&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
+<p align="center">
+  <a href="https://github.com/Fayata"><img alt="Fayata's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Fayata&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/></a>
+  <a href="https://github.com/Fayata"><img alt="Fayata's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Fayata&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/></a>
+</p>
 
 ![Fayata's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fayata&custom_title=%20Fayata's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 Here are some ideas to get you started:
